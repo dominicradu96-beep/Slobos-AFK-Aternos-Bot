@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "UHC_server_yo.aternos.me",
+    "port": 13385,
     "version": "",
     "try-creative": false
   },
